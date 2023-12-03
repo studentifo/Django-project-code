@@ -1,0 +1,4 @@
+#Set Up Django Project and App
+django-admin startproject artist_api_project
+cd artist_api_project
+python manage.py startapp artist_api
