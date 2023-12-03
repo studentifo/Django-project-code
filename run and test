@@ -1,0 +1,5 @@
+Run migrations to create database tables:
+python manage.py makemigrations
+python manage.py migrate
+Run your Django development server:
+python manage.py runserver
